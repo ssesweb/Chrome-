@@ -12,7 +12,7 @@
 ## 使用方法
 
 1. 访问在线版本：[https://passwordmergetool.shophelp.top/](https://passwordmergetool.shophelp.top/)
-2. 打开index.html文件
+2. 打开index.html文件.
 3. 分别上传两个CSV格式的密码文件
 4. 系统会自动合并并显示结果
 5. 下载合并后的文件
